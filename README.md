@@ -25,10 +25,59 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title> Time Table </title>
+</head>
+<body>
+<img src= "C:\html\saveetha logo.jpg" height="90" width="1000">
+<h1 id="desi">
+Saveetha Engineering College
+</h1>
+<table class="tab" border="2" >
+<tr>
+<th> S.No </th>
+<th> Code </th>
+<th> Subject </th>
+</tr>
+<tr>
+<td> 1 </td>
+<td> 19CS307 </td>
+<td> Web Designing and Internet App </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> 19EY702 </td>
+<td> Creative Skills </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> 19AG201 </td>
+<td> Principle Of Agronomy </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> 19AG304 </td>
+<td> Theory of Machines </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> 19AG306 </td>
+<td> Surveying and Levelling </td>
+</tr>
+<tr> 
+<td> 6 </td>
+<td> 19AG310 </td>
+<td> Engineering Mechanics </td>
+</tr>
+</table>
+</body>
+</html>
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (33).png>)
 
 ## RESULT
  Slot time table is created successfully.
